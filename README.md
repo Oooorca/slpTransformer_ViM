@@ -3,7 +3,7 @@
 This repository contains the implementation of data processing and OOD detection for sleep stage classification using the SleepTransformer model.
 
 The research poster for the entire project is shown below:
-![SleepTransformer](figure/poster.png)
+![SleepTransformer with ViM](figure/poster.jpg)
 
 ## Steps to Reproduce
 

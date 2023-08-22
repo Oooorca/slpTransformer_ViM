@@ -1,0 +1,4 @@
+../../matst_placebo/n15_2_eeg.mat	986
+../../matst_placebo/n16_1_eeg.mat	960
+../../matst_placebo/n17_2_eeg.mat	966
+../../matst_placebo/n19_1_eeg.mat	921

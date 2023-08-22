@@ -1,0 +1,15 @@
+../../matst_temazepam/n01_2_eeg.mat	864
+../../matst_temazepam/n03_2_eeg.mat	998
+../../matst_temazepam/n04_1_eeg.mat	867
+../../matst_temazepam/n05_2_eeg.mat	908
+../../matst_temazepam/n06_2_eeg.mat	672
+../../matst_temazepam/n07_1_eeg.mat	854
+../../matst_temazepam/n08_1_eeg.mat	875
+../../matst_temazepam/n09_2_eeg.mat	900
+../../matst_temazepam/n10_1_eeg.mat	878
+../../matst_temazepam/n11_2_eeg.mat	826
+../../matst_temazepam/n12_1_eeg.mat	824
+../../matst_temazepam/n18_1_eeg.mat	872
+../../matst_temazepam/n20_1_eeg.mat	940
+../../matst_temazepam/n21_2_eeg.mat	872
+../../matst_temazepam/n22_2_eeg.mat	790

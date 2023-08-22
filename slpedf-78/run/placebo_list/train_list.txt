@@ -1,0 +1,15 @@
+../../matst_placebo/n01_1_eeg.mat	1048
+../../matst_placebo/n03_1_eeg.mat	976
+../../matst_placebo/n04_2_eeg.mat	1031
+../../matst_placebo/n05_1_eeg.mat	1007
+../../matst_placebo/n06_1_eeg.mat	821
+../../matst_placebo/n07_2_eeg.mat	931
+../../matst_placebo/n08_2_eeg.mat	883
+../../matst_placebo/n09_1_eeg.mat	1041
+../../matst_placebo/n10_2_eeg.mat	974
+../../matst_placebo/n11_1_eeg.mat	1009
+../../matst_placebo/n12_2_eeg.mat	852
+../../matst_placebo/n14_1_eeg.mat	895
+../../matst_placebo/n18_2_eeg.mat	928
+../../matst_placebo/n20_2_eeg.mat	1009
+../../matst_placebo/n21_1_eeg.mat	1021

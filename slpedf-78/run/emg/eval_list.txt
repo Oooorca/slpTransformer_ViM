@@ -1,0 +1,10 @@
+../../mat/n0003_emg.mat	1049
+../../mat/n0008_emg.mat	959
+../../mat/n0011_emg.mat	989
+../../mat/n0012_emg.mat	964
+../../mat/n0015_emg.mat	959
+../../mat/n0017_emg.mat	950
+../../mat/n0019_emg.mat	734
+../../mat/n0020_emg.mat	819
+../../mat/n0027_emg.mat	987
+../../mat/n0030_emg.mat	959

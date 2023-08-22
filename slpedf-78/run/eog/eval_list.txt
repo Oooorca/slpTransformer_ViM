@@ -1,0 +1,10 @@
+../../mat/n0003_eog.mat	1049
+../../mat/n0008_eog.mat	959
+../../mat/n0011_eog.mat	989
+../../mat/n0012_eog.mat	964
+../../mat/n0015_eog.mat	959
+../../mat/n0017_eog.mat	950
+../../mat/n0019_eog.mat	734
+../../mat/n0020_eog.mat	819
+../../mat/n0027_eog.mat	987
+../../mat/n0030_eog.mat	959

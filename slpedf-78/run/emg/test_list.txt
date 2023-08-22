@@ -1,0 +1,15 @@
+../../mat/n0002_emg.mat	689
+../../mat/n0005_emg.mat	1084
+../../mat/n0006_emg.mat	1084
+../../mat/n0007_emg.mat	919
+../../mat/n0009_emg.mat	1086
+../../mat/n0010_emg.mat	1084
+../../mat/n0013_emg.mat	916
+../../mat/n0014_emg.mat	959
+../../mat/n0018_emg.mat	1084
+../../mat/n0021_emg.mat	1072
+../../mat/n0022_emg.mat	1079
+../../mat/n0023_emg.mat	948
+../../mat/n0025_emg.mat	899
+../../mat/n0026_emg.mat	1076
+../../mat/n0028_emg.mat	924

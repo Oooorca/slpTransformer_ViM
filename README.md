@@ -39,3 +39,12 @@ This repository serves as a guide for the described steps and their implementati
 
 ## Tips
 This README provides an overview and may omit some details.
+
+## Reference
+
+1. Huy Phan, Kaare Mikkelsen, Oliver Y. Chén, Philipp Koch, Alfred Mertins, and Maarten De Vos. "SleepTransformer: Automatic Sleep Staging With Interpretability and Uncertainty Quantification." IEEE Transactions on Biomedical Engineering (TBME), vol. 69, no. 8, pp. 2456-2467, 2022. [PDF] [Preprint]
+   - [SleepTransformer](https://github.com/pquochuy/SleepTransformer/tree/main)
+
+2. Haoqi Wang, Zhizhong Li, Litong Feng, Wayne Zhang. "ViM: Out-Of-Distribution with Virtual-logit Matching." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+   - [ViM](https://github.com/haoqiwang/vim)
+

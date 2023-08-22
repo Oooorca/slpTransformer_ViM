@@ -6,7 +6,8 @@ This repository contains the implementation of data processing and OOD detection
 
 ### 1. Dataset Preparation
 
-- Download the sc and st data from the SleepEDF dataset and organize them into a 'meta' folder.
+1. Download part of the SHHS dataset, not for training, just to generate feature for OOD detection.
+2. Download the sc and st data from the SleepEDF dataset，and organize them into a 'meta' folder.
 
 ### 2. Running SleepTransformer
 
@@ -20,6 +21,7 @@ This repository contains the implementation of data processing and OOD detection
 1. Read the 'benchmark' file to understand the idea behind ViM. Design code for OOD detection based on this idea. During this process, preprocess the data by taking logarithms and apply different thresholds for varying levels of OOD detection.
 2. Output a list of detected OOD data, and use this list to remove OOD samples. Pay attention to time step correspondences; each data group has a last sample of 21 time steps that hasn't been through detection. Therefore, be cautious while matching indices for removal.
 3. Compare the performance using different lists obtained from different thresholds.
+
 
 ## Disclaimer
 

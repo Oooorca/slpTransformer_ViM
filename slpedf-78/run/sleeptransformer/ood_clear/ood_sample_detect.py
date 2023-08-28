@@ -15,7 +15,12 @@ with open('f50_ood_indices_list_sc.csv', 'r') as csvfile:
 processed_values = set()
 # Process the indices and add the processed values to the set
 for index in ood_indices_list:
-    processed_value = (index // 21) if (index % 21 == 0) else (index // 21) + 1
+    if index < 20:
+        processed_value = 1
+    elif ((index - 20) % 21) == 0:
+        processed_value = 1 + ((index - 20) // 21)
+    else:
+        processed_value = 2 + ((index - 20) // 21)
     processed_values.add(processed_value)
 
 # Convert the set to a sorted list

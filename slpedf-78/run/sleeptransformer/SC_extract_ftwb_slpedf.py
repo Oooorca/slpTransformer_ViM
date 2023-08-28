@@ -250,7 +250,7 @@ with tf.Graph().as_default():
                 net.istraining: 0
             }
             output_loss, total_loss, yhat, score, feature = sess.run(
-                [net.output_loss, net.loss, net.predictions, net.scores, net.ooutput], feed_dict)
+                [net.output_loss, net.loss, net.predictions, net.scores, net.fc2_feature], feed_dict)
             return output_loss, total_loss, yhat, score, feature
 
 
